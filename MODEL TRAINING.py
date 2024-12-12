@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 
 
 TRAIN_DIR = "D:/college dump/Semester 5/Bangkit/CAPSTONE/Indonesian Spices Dataset"
-TEST_DIR = "D:/college dump/Semester 5/Bangkit\CAPSTONE/Indonesian Spices Dataset"
-VAL_DIR = "D:/college dump/Semester 5/Bangkit\CAPSTONE/Indonesian Spices Dataset"
+TEST_DIR = "D:/college dump/Semester 5/Bangkit/CAPSTONE/Indonesian Spices Dataset"
+VAL_DIR = "D:/college dump/Semester 5/Bangkit/CAPSTONE/Indonesian Spices Dataset"
 
 # data augmentation and preparation
 
